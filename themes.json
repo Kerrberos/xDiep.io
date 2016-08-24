@@ -174,16 +174,16 @@
     "defaultStroke" : "rgb(255,255,255)"
   }
 }, {
-  "author" : "terjanq",
-  "name" : "Sad World",
+  "author" : "Kerrberos",
+  "name" : "Customm",
   "dictionary" : {
-    "rgb(205,205,205)" : "background",
-    "rgb(252,118,119)" : "triangles",
+    "rgb(195,241,199)" : "background",
+    "rgb(75,122,75)" : "triangles",
     "rgb(153,153,153)" : "weapon",
     "rgb(0,178,225)" : "cell",
-    "rgb(255,232,105)" : "squares",
-    "rgb(118,141,252)" : "blueshape",
-    "rgb(85,85,85)" : "cellborder",
+    "rgb(82,171,90)" : "squares",
+    "rgb(35,58,35)" : "blueshape",
+    "rgb(0,104,69)" : "cellborder",
     "rgb(238,238,238)" : "input",
     "rgb(255,255,255)" : "whiteColor",
     "rgb(0,0,0)" : "blackColor",
